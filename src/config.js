@@ -1,6 +1,6 @@
 export const config = {
   // Configurable paths for local audio, video, and background images
-  audioPath: "/media/Time Flows Ever Onward.mp3",
+  audioPath: "/media/time_flows_ever_onward.mp3",
   videoPath: "/media/frieren-amidst-water-lilies-beyond-journeys-end-moewalls-com.mp4",
   backgroundImages: [
     "/media/chihiro014.jpg",
